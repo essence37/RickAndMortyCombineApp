@@ -1,1 +1,1 @@
-# Rick-MortyCombineApp
+# RickAndMortyCombineApp
