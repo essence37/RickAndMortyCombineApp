@@ -21,7 +21,7 @@
 		F4FB11F6256A9BC900286F57 /* PageInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FB11F5256A9BC900286F57 /* PageInfo.swift */; };
 		F4FB11FB256A9D0100286F57 /* APIClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FB11FA256A9D0100286F57 /* APIClient.swift */; };
 		F4FB11FF256A9DF300286F57 /* Method.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FB11FE256A9DF300286F57 /* Method.swift */; };
-		F4FB1202256A9F0200286F57 /* Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FB1201256A9F0200286F57 /* Error.swift */; };
+		F4FB1202256A9F0200286F57 /* ErrorNetwork.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FB1201256A9F0200286F57 /* ErrorNetwork.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,7 +43,7 @@
 		F4FB11F5256A9BC900286F57 /* PageInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageInfo.swift; sourceTree = "<group>"; };
 		F4FB11FA256A9D0100286F57 /* APIClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIClient.swift; sourceTree = "<group>"; };
 		F4FB11FE256A9DF300286F57 /* Method.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Method.swift; sourceTree = "<group>"; };
-		F4FB1201256A9F0200286F57 /* Error.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Error.swift; sourceTree = "<group>"; };
+		F4FB1201256A9F0200286F57 /* ErrorNetwork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorNetwork.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,7 +124,7 @@
 			children = (
 				F4FB11FA256A9D0100286F57 /* APIClient.swift */,
 				F4FB11FE256A9DF300286F57 /* Method.swift */,
-				F4FB1201256A9F0200286F57 /* Error.swift */,
+				F4FB1201256A9F0200286F57 /* ErrorNetwork.swift */,
 			);
 			path = Networking;
 			sourceTree = "<group>";
@@ -260,7 +260,7 @@
 				F4FB11F6256A9BC900286F57 /* PageInfo.swift in Sources */,
 				F4590B57256ECC2A00164458 /* Episode.swift in Sources */,
 				F4FB11DB256A9AA600286F57 /* SceneDelegate.swift in Sources */,
-				F4FB1202256A9F0200286F57 /* Error.swift in Sources */,
+				F4FB1202256A9F0200286F57 /* ErrorNetwork.swift in Sources */,
 				F47DDDD2256C2EBF00AAB5AB /* DetailViewController.swift in Sources */,
 				F4FB11F3256A9BB900286F57 /* CharacterPage.swift in Sources */,
 				F4FB11EF256A9BA900286F57 /* Character.swift in Sources */,
